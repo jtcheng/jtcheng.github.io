@@ -1,0 +1,9 @@
+# jekyll
+title: jtcheng的项目列表
+email: jtcheng@cqu.edu.cn
+description: 个人技术分享
+github_username: jtcheng
+
+# theme
+theme: jekyll-theme-hacker
+show_downloads: true
